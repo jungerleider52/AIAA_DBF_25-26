@@ -27,4 +27,5 @@ The maximum thickness is located at 30% of the chord.
 From: https://en.wikipedia.org/wiki/NACA_airfoil
 
 Author: Joey Ungerleider
+
 Version: 4-24-26
